@@ -26,6 +26,7 @@ def is_prime(n):
         i += 6
     return True
 #comen tario
+#otro comentario
 
 def worker(worker_id, num_workers, shared_queue, stop_event, base_num):
     """
